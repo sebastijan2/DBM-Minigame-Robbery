@@ -16,6 +16,7 @@ To see the newest release of the heist command *(This is updated weekly with fix
 ## License
 This Project uses The GNU General Public License which is a free, copyleft license for
 software and other kinds of works.
+**Themes published must follow the GNU Public License as well.**
 ## Creators
 Created by GamingFlaming#0001
 
