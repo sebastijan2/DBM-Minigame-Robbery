@@ -1,5 +1,7 @@
 # Welcome to the heist
 To download themes, simply download this respirostry's zip, then place the json files into your `Heist_Themes` folder. 
+
+Theme are separated by what kinds of themes. Community themes are made by the community. `Heist_Themes` in the github are the default themes. 
 ## Minigame Heists - DBM
 *Rob banks to robbing places. Hit up places and go on heists with friends. Fun and rewarding. Customization Around Every Corner. For DBM - Discord Bot Maker*
 This minigame has easy to use customization via JSON files. 
