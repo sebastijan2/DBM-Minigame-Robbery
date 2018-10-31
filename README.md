@@ -1,4 +1,4 @@
-# Welcome to the heist.
+# Welcome to the heist Minigame created by GamingFlaming#0001. 
 *Social Media*
 Twitter: https://twitter.com/GamingFlamin
 
