@@ -1,3 +1,6 @@
+##Welcome to the heist##
+
+
 # Minigame Heists - DBM
 *Rob banks to robbing places. Hit up places and go on heists with friends. Fun and rewarding. Customization Around Every Corner. For DBM - Discord Bot Maker*
 This minigame has easy to use customization via JSON files. 
