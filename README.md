@@ -1,8 +1,5 @@
-# Welcome to the heist Minigame created by GamingFlaming#0001. 
-*Social Media*
-Twitter: https://twitter.com/GamingFlamin
+# Welcome to the heist
 
-Blog: https://gamingflamingblogs.ml/
 # Minigame Heists - DBM
 *Rob banks to robbing places. Hit up places and go on heists with friends. Fun and rewarding. Customization Around Every Corner. For DBM - Discord Bot Maker*
 This minigame has easy to use customization via JSON files. 
@@ -15,3 +12,11 @@ Instead of doing a normal bank robbery minigame as always, heists can be more th
 This minigame has two parts, they are both commands and must be placed in the commands. **NOT EVENTS**
 
 To see the newest release of the heist command *(This is updated weekly with fixes updates)*, see the release tab.
+
+# Creators
+Created by GamingFlaming#0001
+
+*Social Media*
+Twitter: https://twitter.com/GamingFlamin
+
+Blog: https://gamingflamingblogs.ml/
