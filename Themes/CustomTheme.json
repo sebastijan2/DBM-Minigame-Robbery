@@ -1,0 +1,87 @@
+{
+  "Theme Name": "Custom Theme Name",
+  "Theme Logo": "Enter a Logo URL to use for this theme. Make sure it's copyright free please!",
+  "Creator Name": "ENTER_NAME",
+  "Theme Description": "Enter a good description of this theme, The theme picker preview will show this.",
+  "Amount Of Buildings": "10",
+  "Building Names": [
+    "Enter building names! It doesn't have to all revolve around banks! Maybe shops, houses, markets etc",
+    "For Example",
+    "Labadie's Jewerly Store",
+    "OR",
+    "The Local Bank",
+    "OR",
+    "Bergstrom Inc",
+    "Just don't do all three of these catagorys, it wouldn't make sense unless you can figure out a way to include all of theme.",
+    "Bank Of DBM",
+    "Coding Federal Bank",
+    "Velvet Bank"
+  ],
+  "Game Settings": {
+    "Max Vault Amount": "Enter a max vault amount, just enter some random number in, at the moment bank heist's won't use this",
+    "Minium Vault Amount": "Use numbers please for this too!",
+    "Discord Embed Theme Hex": "Enter a Hex Code for the embeds",
+    "Embed footer message": "Enter a footer message to display in the footers of embeds",
+	"Heist Name": "Is it a heist or is it a robbery? Put the name in here.",
+	"Building Type":"If your using shops, it makes sense to put in commerical or shop. Put a building type in.",
+    "Hostage Quotes": "true",
+	"News Cast": "true",
+    "Bad Event Spot": "3",
+	"Hostage Quote Spot": "4",
+	"Amount Of Loops": "5",
+	"Heist Theme Description": "Fill this in to display a little loading message for when a heist is about to begin. This also supports **discord markdown** to make these heists look even ~~cooler~~",
+	"Heist Break In Message": "A message to display when the heist has finished loading. As in a break in message."
+	
+},
+ "Occurance Counts": {
+    "Amount Of BAD": "9",
+    "Amount Of GOOD": "13",
+    "Amount of Hostage Quotes": "6",
+    "Amount of News Coverage Quotes": "2"
+},
+  "Occurance Messages GOOD": [
+    "Enter good messages in here. Good as in rewarding like, so and so brought ammo.",
+	"Always start the message already assuming the name is in there. like Brought Pickaxe, Do not add a user's name in. The command will do that.",
+	"Remember you can always use discord markdown in these messages.",
+	"Brought Grenades!",
+	"Brought a Pickaxe!",
+	"Brought a Fireaxe!",
+	"Brought a Smoke Grenade!",
+    "locked the hostages in the vault!",
+    "broke into the manager's office!",
+	"Gained access to the security room!",
+    "brought the drill!",
+	"Held up the bank tellers!",
+	"Took out security guards in the security room!",
+	"Stopped the people from escaping!"
+    ],
+    "Occurance Messages BAD": [
+    "Enter bad messages in here. Bad as in a bad thing has happened. Like got punched by a dude!",
+	"As above always start the message already assuming the name is in there. like Brought Pickaxe, Do not add a user's name in. The command will do that.",
+	"This also supports discord markdown as well, so go crazy with it!",
+	"The security cameras were still on, letting the police/security guard plan there attacks!",
+    "was shot by a security guard who then fled? What!",
+    "was hit by a falling object, *a coffee mug*",
+	"fell through the cieling!",
+	"got smacked by a hostage!",
+	"No one was watching the hostages and the resuce team manged to team some away!",
+	"was accidently hit by a fleeing security car *Just an accident*"
+    ],
+    "Hostage Quotes": [
+    "If turned on in the settings, hostage messages are quotes that hostages say. Hostages messages can be good or bad. Examples provided below.",
+    "Supports discord markdown as well.",
+    "*Please, take anything you want, don't hurt anyone here!*",
+	"*I don't know what you want! Just take anything!*",
+	"*Please don't take us as hostages!*",
+	"*Please don't do anything to me!*",
+	"*What is going on here! Is this a robbery? Is this a prank show?",
+	"*Is this a bank robbery! I can't believe this, I came here to get my items from the vault!*"
+    ],
+    "News Coverage Quotes": [
+    "News Coverage of the heist can be displayed as news messages to the players for extra fun. This only works if the setting is turned on for the theme. Examples provided below. Discord Markdown supported. ",
+    "We are in the air and live. ",
+    "This is so and so news, reporting in from the air. We are seeing massive fires and destruction going on down below."
+    ],
+"Game Wait Timers": "3",
+"Cooldown Timer" : "5"
+}
