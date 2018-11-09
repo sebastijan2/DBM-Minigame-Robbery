@@ -3,7 +3,7 @@
   "Theme Logo": "https://i.imgur.com/EvuLRrH.jpg",
   "Creator Name": "GamingFlaming",
   "Theme Description": "The default theme for the heist minigame, fun and entertaining.",
-  "Amount Of Buildings": "25",
+  "Amount Of Buildings": "26",
   "Building Names": [
     "New Wave Bank",
     "New Civil Bank",
@@ -50,8 +50,8 @@
  "Occurance Counts": {
     "Amount Of BAD": "30",
     "Amount Of GOOD": "30",
-    "Amount of Hostage Quotes": "25",
-    "Amount of News Coverage Quotes": "15"
+    "Amount of Hostage Quotes": "27",
+    "Amount of News Coverage Quotes": "16"
 },
   "Occurance Messages GOOD": [
     "^nameofuser^ Brought a sharper attachment!",
